@@ -27,7 +27,8 @@ Monitoring online activity
 Understanding web usage habits
 Time management for remote work, freelancing, or studying
 
-
+#OUTPUT  
+<img width="1917" height="1199" alt="Image" src="https://github.com/user-attachments/assets/a62175b7-f6bb-43a7-9d48-844587f3f2c7" />
 
 
   
